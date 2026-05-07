@@ -86,7 +86,7 @@
    ├─ RAG & Advanced RAG pipelines for enterprise search
    └─ Generative AI POCs with GPT-3, Bedrock, SageMaker
 
-🚀 Python Developer · mozark.ai                                 08/2022 – 02/2023
+🚀 Python Developer                                             08/2022 – 02/2023
    ├─ Core Python automation for data extraction & DB integration
    ├─ Selenium web automation · Pandas data pipelines
    └─ CronTab scheduling · SMTP notifications
