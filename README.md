@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:2563eb,70:0891b2,100:059669&height=200&section=header&text=Binit+Kunal&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Binit Kunal"/>
 
-<h3>🤖 Generative AI Developer &nbsp;·&nbsp; Tata Consultancy Services &nbsp;·&nbsp; Gurugram, India</h3>
+<h3>🤖 Generative AI Developer &nbsp;·&nbsp; Gurugram, India</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=720&lines=Building+RAG+pipelines+for+enterprise+AI+%F0%9F%A4%96;AWS+Bedrock+%2B+Claude+%2B+GPT-4+applications+%E2%9A%A1;SAS+to+AI+modernisation+for+banking+%F0%9F%8F%A6;LangChain+%2B+Pinecone+%2B+LLM+engineering+%F0%9F%94%97;Credit+Risk+%C2%B7+AML+%C2%B7+IFRS+9+domain+expert+%F0%9F%93%8A" alt="Typing SVG"/>
@@ -16,7 +16,7 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=kunal923476&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/badge/TCS-Generative+AI+Dev-D97706?style=for-the-badge&logo=tata&logoColor=white" alt="TCS"/>
+<img src="https://img.shields.io/badge/Role-Generative+AI+Dev-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Role"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Open+to-Opportunities-22c55e?style=for-the-badge" alt="open"/>
 
@@ -26,11 +26,11 @@
 
 ## 👨‍💻 About Me
 
-> **Generative AI Developer at TCS** — building production RAG pipelines, LLM-powered chatbots and AI modernisation tools for enterprise and banking clients. Driven by bridging the gap between legacy systems and cutting-edge AI.
+> **Generative AI Developer** — building production RAG pipelines, LLM-powered chatbots and AI modernisation tools for enterprise and banking clients. Driven by bridging the gap between legacy systems and cutting-edge AI.
 
-- 🏢 &nbsp;**04/2023 – Present** at **Tata Consultancy Services** — Generative AI Developer
-- 🤖 &nbsp;Led AI-powered chatbot for the **airline industry** using Amazon Bedrock, Kendra, and Lambda
-- 🔍 &nbsp;Designed and shipped **RAG & Advanced RAG** pipelines improving retrieval accuracy for enterprise customers
+- 🤖 &nbsp;**04/2023 – Present** — Generative AI Developer, building enterprise-grade LLM solutions
+- 🛫 &nbsp;Led AI-powered chatbot for the **airline industry** using Amazon Bedrock, Kendra, and Lambda
+- 🔍 &nbsp;Designed and shipped **RAG & Advanced RAG** pipelines improving retrieval accuracy for enterprise
 - 🏦 &nbsp;Building **SAS Flow Diagram Agent** — converts SAS programs into Basel III / IFRS 9 audit-ready flow diagrams
 - 📊 &nbsp;Domain: **Credit Risk · AML screening · IFRS 9** modelling workflows
 - 🎓 &nbsp;B.Tech Computer Science — LNCT / RGPV, CGPA **8.19** (2021)
@@ -81,17 +81,17 @@
 ## 💼 Work Experience
 
 ```text
-🏢 Tata Consultancy Services     Generative AI Developer       04/2023 – Present
+🤖 Generative AI Developer                                      04/2023 – Present
    ├─ AI chatbot for airline industry (AWS Bedrock · Kendra · Lambda)
    ├─ RAG & Advanced RAG pipelines for enterprise search
    └─ Generative AI POCs with GPT-3, Bedrock, SageMaker
 
-🚀 Mozark (mozark.ai)            Python Developer              08/2022 – 02/2023
+🚀 Python Developer · mozark.ai                                 08/2022 – 02/2023
    ├─ Core Python automation for data extraction & DB integration
    ├─ Selenium web automation · Pandas data pipelines
    └─ CronTab scheduling · SMTP notifications
 
-🔧 Amdocs                        Associate Software Engineer   09/2021 – 08/2022
+🔧 Associate Software Engineer                                  09/2021 – 08/2022
    ├─ ML models with scikit-learn & TensorFlow
    └─ Feature engineering & model training on enterprise datasets
 ```
