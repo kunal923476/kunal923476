@@ -124,6 +124,7 @@
 | [**🎤 AI Interviewer Avatar**](https://github.com/kunal923476/interviewer-avatar) | `TypeScript` `GPT-4o` `TTS` | Animated 3D avatar with voice I/O — conducts structured interviews, generates evaluation reports |
 | [**📈 Stock MCP Server**](https://github.com/kunal923476/Stock_MCP) | `Python` `MCP` | Model Context Protocol server for real-time stock data and financial portfolio analysis |
 | [**📄 Resume GPT-4**](https://github.com/kunal923476/resumegpt4) | `Python` `GPT-4` | AI-powered resume builder and role-fit scorer using GPT-4 |
+| [**⚽ Saudi 2034 World Cup AI Guide**](https://github.com/kunal923476/saudi-fifa-2034-chatbot) | `Next.js` `FastAPI` `RAG` `OpenAI` `Qdrant` | Bilingual EN/AR avatar chatbot with hands-free voice I/O — powered by the official 2034 FIFA bid book via RAG pipeline |
 
 </div>
 
